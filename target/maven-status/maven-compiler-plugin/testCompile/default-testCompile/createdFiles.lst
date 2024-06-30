@@ -1,0 +1,12 @@
+com\project\hardcore\framework\util\TabUtils.class
+com\project\hardcore\framework\page\ComputeEnginePage.class
+com\project\hardcore\framework\page\YopmailEmailPage.class
+com\project\hardcore\framework\model\Instance.class
+com\project\hardcore\framework\service\TestDataReader.class
+com\project\hardcore\framework\page\MainPage.class
+com\project\hardcore\framework\test\CommonConditions.class
+com\project\hardcore\framework\util\TestListener.class
+com\project\hardcore\framework\service\InstanceCreator.class
+com\project\hardcore\framework\test\GoogleCloudPricingCalculatorTest.class
+com\project\hardcore\framework\page\AbstractPage.class
+com\project\hardcore\framework\driver\DriverSingleton.class
